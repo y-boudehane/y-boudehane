@@ -9,20 +9,14 @@
 ### Full-Stack Developer at IdeaCrafters
 *March 2025 - Present*
 
-- Building **multi-tenant SaaS platforms** using **Laravel**, **Vue.js**, **Quasar Framework**, and **Docker**.
-- Implementing **AI-powered document processing** with Google Document AI for automated data extraction.
-- Developing **real-time features** with **WebSockets** (Pusher/Soketi), **Laravel Horizon**, and **event-driven architecture**.
-- Working with **bank statement processing**, **invoice collection systems**, and **accounting workflows**.
-- **Tech Stack**: Laravel, Vue.js, Quasar, MySQL, Redis, MongoDB, Docker, AWS.
-
 ### Full-Stack Developer at AIVOT
 *July 2023 - March 2025*
 
 - Built an **AI-powered medical platform** with social networking features, clinical document generation, chatbot, and internal evaluation system.
 - Developed a **modern travel guide solution** with easy page creation, premium content access, and streamlined purchase flows.
+- Developed the **YINVISTI web application** connecting investors with entrepreneurs.
 - Created an **e-learning platform** enabling educators and organizations to manage virtual classrooms, training programs, and structured learning experiences.
 - Built an **AI-based skills assessment platform** helping organizations evaluate team capabilities, identify gaps, and deliver actionable development plans.
-- Developed the **YINVISTI web application** connecting investors with entrepreneurs.
 - Delivered multiple **international projects** across various domains.
 
 ### Software Developer at CTC (National Construction Control Agency)
