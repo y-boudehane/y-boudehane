@@ -1,87 +1,116 @@
-<h1 align="center">Hi there, I'm Yasmine Boudehane <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+# 👋 Hi, I'm Yasmine Boudehane!
 
-<p align="center">
-  <strong>Senior Full-Stack Developer | GIS Specialist | AI Enthusiast</strong>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/boudehane-yasmine/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:yasmineboudehane@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+🚀 **Senior Full-Stack Software Engineer** specializing in **GIS platforms**, **AI-powered applications**, and **government-critical systems**. With 7+ years of experience across **Laravel**, **Vue.js**, **GIS technologies**, and **data visualization**, I architect and deliver large-scale digital solutions for public, private, and international sectors.
 
 ---
 
-### About Me
+## 💼 Experience
 
-I'm a **Software Engineer** from Algiers, Algeria, with 7+ years of experience building large-scale digital solutions. I specialize in web platforms, GIS applications, AI-powered systems, and government-critical software.
+### Full-Stack Developer at IdeaCrafters
+*March 2025 - Present*
 
-- Currently working as a **Full-Stack Developer** at **IdeaCrafters**
-- MSc in Computer Science (Software Engineering) from USTHB
-- Passionate about clean architecture, data visualization, and solving complex problems
+- Building **multi-tenant SaaS platforms** using **Laravel**, **Vue.js**, **Quasar Framework**, and **Docker**.
+- Implementing **AI-powered document processing** with Google Document AI for automated data extraction.
+- Developing **real-time features** with **WebSockets** (Pusher/Soketi), **Laravel Horizon**, and **event-driven architecture**.
+- Working with **bank statement processing**, **invoice collection systems**, and **accounting workflows**.
+- **Tech Stack**: Laravel, Vue.js, Quasar, MySQL, Redis, MongoDB, Docker, AWS.
 
----
+### Full-Stack Developer at AIVOT
+*July 2023 - March 2025*
 
-### Tech Stack
+- Built an **AI-powered medical platform** with social networking features, clinical document generation, chatbot, and internal evaluation system.
+- Developed a **modern travel guide solution** with easy page creation, premium content access, and streamlined purchase flows.
+- Created an **e-learning platform** enabling educators and organizations to manage virtual classrooms, training programs, and structured learning experiences.
+- Built an **AI-based skills assessment platform** helping organizations evaluate team capabilities, identify gaps, and deliver actionable development plans.
+- Developed the **YINVISTI web application** connecting investors with entrepreneurs.
+- Delivered multiple **international projects** across various domains.
 
-**Languages & Frameworks**
+### Software Developer at CTC (National Construction Control Agency)
+*April 2022 - June 2023*
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- Developed a **web platform for digitizing work procedures** at the Diagnostic & Expertise Division — with a **client portal** and an **admin portal**.
+- Contributed to the **national construction control platform** for technical inspection across Algeria.
+- Built a **risk management application** for tracking business-related risks across the agency and its branches.
 
-**GIS & Mapping**
+### Software Developer at ANURB (National Urban Planning Agency)
+*June 2018 - March 2022*
 
-![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=flat-square&logo=openlayers&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-**DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+- Built a **GIS web platform** for the Sidi Abdellah New City: interactive dashboard with statistics, reporting, web cartography, and user/admin spaces.
+- Developed a **national geolocation mapping application** for construction material production units.
+- Created a **digitalization platform for urban planning instruments** for the Ministry of Housing.
+- Built a **Sustainable Development Goals (SDG) performance dashboard** for government reporting.
+- Developed **internal enterprise tools**: geo-catalog, HR management, document management system, and project management application.
 
 ---
 
-### Highlights
+## 🎓 Education
 
-- Built **GIS platforms** for national urban planning agencies, including web cartography and geolocation systems
-- Developed **government digitalization platforms** for the Ministry of Housing (urban planning instruments)
-- Created a **Sustainable Development Goals (SDG) performance dashboard** for government reporting
-- Contributed to a **national construction control platform** (CTC) with client and admin portals
-- Built **AI-powered medical platforms** with chatbot, clinical document generation, and social features
-- Developed **e-learning platforms**, **travel guide solutions**, and **investor-entrepreneur matching apps**
+- **Master's Degree** in Computer Science, Software Engineering
+  *University of Science and Technology Houari Boumediene (USTHB) — 2015 - 2017*
 
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=y-boudehane&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-boudehane&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
-</p>
+- **Bachelor's Degree** in Computer Science
+  *University of Science and Technology Houari Boumediene (USTHB) — 2012 - 2015*
 
 ---
 
-<p align="center">
-  <i>Open to collaborations and interesting projects. Feel free to reach out!</i>
-</p>
+## 🗺️ GIS & Geospatial Expertise
+
+### Web Mapping & Cartography
+- **Mapping Libraries**: OpenLayers, Leaflet, ArcGIS API for JavaScript
+- **GIS Servers**: GeoServer, ArcGIS Server
+- **Desktop GIS**: QGIS, ArcGIS Desktop
+- **Spatial Databases**: PostGIS, pgRouting (network spatial analysis)
+- **SDKs**: ArcGIS Runtime SDK for Java, ArcObject for .NET & Java
+- **Dashboards**: ArcGIS Dashboards (Esri)
+
+### Applications
+- National-scale **geolocation and cartography platforms**
+- Urban planning **GIS information systems** with interactive dashboards
+- **Geo-catalogs** for spatial data management and discovery
+
+---
+
+## 🛠️ Technical Skills
+
+### Backend Development
+- **Languages**: PHP 8.x, JavaScript
+- **Frameworks**: Laravel, J2EE
+- **APIs**: RESTful APIs, WebSockets, AJAX
+- **Authentication**: Laravel Sanctum
+- **Databases**: MySQL, PostgreSQL, SQL Server, PL/SQL
+- **ORMs**: Eloquent
+- **Queues**: Laravel Horizon, Redis
+
+### Frontend Development
+- **Frameworks**: Vue.js, Nuxt.js, Quasar Framework
+- **Libraries**: jQuery, Chart.js, FusionCharts
+- **Styling**: HTML5, CSS3, Responsive Design
+- **CMS**: WordPress
+
+### Data Visualization & Reporting
+- **JavaScript Libraries**: Chart.js, FusionCharts
+- **Statistical Tools**: R (statistics, data science, online dashboards)
+- **GIS Dashboards**: ArcGIS Dashboards (Esri)
+- **Reporting**: Custom dashboard development with real-time data
+
+### DevOps & Infrastructure
+- **Containerization**: Docker, Docker Compose
+- **Cloud & Hosting**: AWS, Laravel Forge, cPanel, IIS Server
+- **Version Control**: Git, GitHub
+- **Monitoring**: Sentry
+
+### Design & Collaboration
+- **Design Tools**: Figma, Photoshop
+- **Office Suite**: Word, Excel, PowerPoint, Visio
+- **Languages**: Arabic (native), French (fluent), English (fluent)
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://linkedin.com/in/boudehane-yasmine/)
+- 📧 Email: yasmineboudehane@gmail.com
+
+---
+
+💡 **Passionate about building impactful digital solutions** — from GIS platforms serving national agencies to AI-powered SaaS products. Always open to exciting collaborations!
