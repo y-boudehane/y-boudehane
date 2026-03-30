@@ -8,6 +8,10 @@
 
 ### Full-Stack Developer at IdeaCrafters
 *March 2025 - Present*
+- Created an **e-learning platform** enabling educators and organizations to manage virtual classrooms, training programs, and structured learning experiences.
+- Built an **AI-based skills assessment platform** helping organizations evaluate team capabilities, identify gaps, and deliver actionable development plans.
+- Developed a **SaaS accounting platform** connecting accountants with their client companies, featuring AI-driven document processing, bank statement extraction,        
+  real-time messaging, and automated invoice collection. 
 
 ### Full-Stack Developer at AIVOT
 *July 2023 - March 2025*
@@ -15,8 +19,6 @@
 - Built an **AI-powered medical platform** with social networking features, clinical document generation, chatbot, and internal evaluation system.
 - Developed a **modern travel guide solution** with easy page creation, premium content access, and streamlined purchase flows.
 - Developed the **YINVISTI web application** connecting investors with entrepreneurs.
-- Created an **e-learning platform** enabling educators and organizations to manage virtual classrooms, training programs, and structured learning experiences.
-- Built an **AI-based skills assessment platform** helping organizations evaluate team capabilities, identify gaps, and deliver actionable development plans.
 - Delivered multiple **international projects** across various domains.
 
 ### Software Developer at CTC (National Construction Control Agency)
